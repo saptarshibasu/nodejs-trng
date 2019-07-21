@@ -24,13 +24,13 @@
     "express-async-errors": "^3.1.1",
     "helmet": "^3.18.0",
     "morgan": "^1.9.1",
+    "pg-promise": "^8.7.5",
     "ratelimiter": "^3.3.0",
     "winston": "^3.2.1"
   },
   "devDependencies": {
     "jest": "^24.8.0",
     "nodemon": "^1.19.1",
-    "nsp": "^3.2.1",
     "safe-regex": "^2.0.2",
     "supertest": "^4.0.2"
   }
