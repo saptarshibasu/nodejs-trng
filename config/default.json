@@ -1,3 +1,9 @@
 {
-    "app_name": "NodeJS Training App"
+    "app_name": "NodeJS Training App",
+    "db_host": "localhost",
+    "db_port": 5432,
+    "database": "postgres",
+    "db_user": "postgres",
+    "max_connection": 10,
+    "min_connection": 5
 }
